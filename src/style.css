@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+text {
+    text-align: center;
+    vertical-align: middle;
+  }
+.header {
+    background-color: rgb(218, 153, 238);
+    height: 100px; 
+    padding: 20px;
+    justify-content: center;
+    display: flex;
+    font-size: 15px;
+    }
+.product_list {
+    background-color: rgb(221, 186, 90);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    } 
+    .product_list_2 {
+        background-color: rgb(40, 16, 78);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        } 
